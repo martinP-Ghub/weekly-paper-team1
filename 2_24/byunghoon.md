@@ -89,6 +89,7 @@
 - REST는 URI 기반 리소스 관리로 인해 API 변경 시 버전 관리가 필요하다.
 
 ---
+## **@RestController**
 
 ![image](https://github.com/user-attachments/assets/c8a5a323-8159-455e-8854-48255c10c757)
 
